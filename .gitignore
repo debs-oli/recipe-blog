@@ -1,4 +1,5 @@
 .env
 .htaccess
-/vendor
-/images
+vendor/
+imagens/
+js/tinymce/
